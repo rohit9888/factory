@@ -15,3 +15,5 @@ owner of NFT can upgrade the NFT by paying fees
 
 you can send the transaction using mintNFT() in index.js
 
+I have deployed the contract on BSC testnet and the contract address is 0x87aaa7eA6bbfe783f531496055Da2483f6f02E09
+
